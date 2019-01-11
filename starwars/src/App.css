@@ -4,5 +4,22 @@
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
+  font-size:50px;
+  
 }
 /* write your parent styles in here for your App.js */
+
+.characters{
+  color:#ebd800;
+  text-shadow: 1px 1px 5px white;
+  font-size: 37px;
+}
+p{
+  font-size: 26px;
+  color:whitesmoke;
+  text-shadow: 1px 1px 5px #ebd800;
+  font-family:Din;
+}
+.traits{
+  color:white;
+}
